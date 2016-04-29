@@ -1,0 +1,31 @@
+{
+  "name": "mrsudo",
+  "version": "1.0.0",
+  "private": true,
+  "author": "danny@dannyshaw.io",
+  "description": "An entertainment bot for hackcolumn.slack.com",
+  "dependencies": {
+    "google-images": "^0.1.0",
+    "hubot": "^2.13.1",
+    "hubot-auth": "^1.2.0",
+    "hubot-business-cat": "^1.2.0",
+    "hubot-devops-reactions": "^1.0.2",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-euphemism": "^1.0.1",
+    "hubot-google-images": "^0.1.5",
+    "hubot-google-translate": "^0.2.0",
+    "hubot-group-alias": "^1.5.4",
+    "hubot-help": "^0.1.1",
+    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
+    "hubot-reaction": "0.0.6",
+    "hubot-redis-brain": "0.0.3",
+    "hubot-rules": "^0.1.1",
+    "hubot-scripts": "^2.16.1",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.3.0",
+    "hubot-tell": "^1.2.3",
+    "hubot-youtube": "^1.0.0"
+  }
+}
