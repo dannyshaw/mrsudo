@@ -12,6 +12,7 @@
     "hubot-devops-reactions": "^1.0.2",
     "hubot-euphemism": "^1.0.1",
     "hubot-google-images": "^0.1.5",
+    "hubot-humanity": "https://github.com/dannyshaw/hubot-humanity.git",
     "hubot-google-translate": "^0.2.0",
     "hubot-group-alias": "^1.5.4",
     "hubot-help": "^0.1.1",
