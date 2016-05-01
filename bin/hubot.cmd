@@ -1,3 +1,3 @@
 @echo off
 
-npm install && node_modules\.bin\hubot.cmd --name "mrsudo" %*
+npm install && node_modules\.bin\hubot.cmd --name "sudo" %*
